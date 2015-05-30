@@ -1,7 +1,7 @@
 # Hello-World
 My github first steps repository 
 
-//Test edit
+//Test delete
 
 
 Hello world, i'm making 2nd test edit for Readme file.
